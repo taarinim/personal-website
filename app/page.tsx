@@ -229,7 +229,7 @@ function EducationItem({ edu }: { edu: Education }) {
 				<h3 className="text-lg font-bold text-white">{edu.degree}</h3>
 				<p className="text-blue-300 font-medium">{edu.institution}</p>
 				<p className="text-sm text-gray-400 mt-1">{edu.date}</p>
-				{edu.note && <p className="mt-2 text-gray-300">{edu.note}</p>}
+				{edu.note && <p className="mt-2 text-gray-300">{edu.note} 🎶 </p>}
 			</div>
 		</div>
 	);
