@@ -50,7 +50,7 @@ const PORTFOLIO_DATA: Portfolio = {
 	// Add your experience here
 	experience: [
 		{
-			role: "Software Engineer Intern (Incoming)",
+			role: "Software Engineer Intern (Ongoing)",
 			company: "Big Tech Co / FAANG",
 			date: "Summer 202X",
 			location: "Menlo Park, CA (Remote)",
